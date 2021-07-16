@@ -1,2 +1,3 @@
 # The-Curse-Of-Norton
-A funny program with the charismatic Norton face
+
+Disclaimer: This program was done just for funny reasons and not for mock Norton.
